@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="exit_btn">Exit</string>
+    <string name="start_trivia_btn">Start Trivia</string>
+    <string name="ready">Trivia Ready</string>
+    <string name="quit_btn">Quit</string>
+    <string name="next_btn">Next</string>
+    <string name="title_activity_statitics">Statitics Activity</string>
+    <string name="stats">Trivia Statitics</string>
+    <string name="answer_label">Correct Answers</string>
+    <string name="statsmsg">Try Again and see if you can get all the correct answers!</string>
+    <string name="tryagain_btn">Try Again</string>
+</resources>
